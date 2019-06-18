@@ -1,8 +1,11 @@
 // DOM Elements
-const time = document.getElementById('time'),
-    greeting = document.getElementById('greeting'),
-    name = document.getElementById('name'),
-    focus = document.getElementById('focus');
+  const time1 = document.getElementById('time1'),
+        time2 = document.getElementById('time2'),
+        time3 = document.getElementById('time3'),
+        time4 = document.getElementById('time4'),
+        greeting = document.getElementById('greeting'),
+        name = document.getElementById('name'),
+        focus = document.getElementById('focus');
 
 // Option for Showing AM or PM
 const showAnPm = true;
