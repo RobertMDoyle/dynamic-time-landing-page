@@ -15,8 +15,12 @@ body {
     color: #000;
 }
 
-#time {
+#time1 {
     font-size: 8rem;
+}
+
+#time2, #time3, #time4 {
+    font-size: 1.5rem;
 }
 
 h1 {
